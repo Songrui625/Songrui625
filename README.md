@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋, I'm Jerry Song
 
 <!--
 **Songrui625/Songrui625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My interests include database systems, operating systems, and distributed systems.
